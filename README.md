@@ -1,4 +1,6 @@
-A partial upload of code only. Large files required to run backend including a Python configuration and a trained image classifier. Full project upload can be found at https://drive.google.com/file/d/1UMZijyXcAAU3EoUxzrzlgWgQTGpAcHE9/view?usp=sharing
+A partial upload of code only. Large files required to run backend including a Python configuration and a trained image classifier.
+
+An example of the application in operation can be found in the repository.
 
 Harry Gleeson final year project UCD Computer Science 2018.
 
